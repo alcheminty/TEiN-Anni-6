@@ -1323,7 +1323,6 @@ hive/h {
 }
 
 
-
 hive/hxd {
     area_name "The Hive"
     tile_graphics Tiletox
@@ -1382,5 +1381,5 @@ hive/hxd {
 
         shader_param .6
       }
-
 }
+
